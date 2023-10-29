@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1698503435488,
+      "tag": "0000_curvy_the_hunter",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1698575582982,
+      "tag": "0001_clumsy_nighthawk",
+      "breakpoints": true
+    }
+  ]
+}
